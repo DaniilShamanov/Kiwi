@@ -15,27 +15,21 @@ This project is a backend service built using [Express.js](https://expressjs.com
 
 ## Usage
 1. Clone the repository:
-   \```sh
    git clone https://github.com/DaniilShamanov/KiwiAnimationBackend.git
    cd KiwiAnimationBackend
-   \```
 
 2. Install dependencies:
-   \```sh
    npm install
    # or
    yarn install
-   \```
 
 3. Set up environment variables:
    Create a `.env` file in the root directory and add the necessary environment variables. Refer to the [Environment Variables](#environment-variables) section for more details.
 
 4. Start the development server:
-   \```sh
    npm run dev
    # or
    yarn dev
-   \```
 
 ## Environment Variables
 The following environment variables are required to run the project:
